@@ -3,6 +3,8 @@ Scoreboard
 
 ![score](images/scoreboard.png)
 
+[Helpful Tutorial Here!!!](https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers)
+
 ### Commands
 
 - `@gotit` - This command gives you a point for responding to a learner.
